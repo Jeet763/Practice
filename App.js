@@ -1,3 +1,5 @@
+//Using React DOM and render methods
+
 import React from "react";
 // import ReactDOM from "react-dom";
 import ReactDOM from "react-dom/client";
